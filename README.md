@@ -63,11 +63,11 @@ To run this notebook:
 
 ## Video Demonstration
 
-[Link to video demonstration]
+[https://drive.google.com/file/d/1zychRK9a5oFgCp3QziJWvwypP8A0Hn0I/view?usp=sharing]
 
 ## Repository Link
 
-[https://github.com/Mounika-Bolla/Deep-Learning]
+[https://github.com/Mounika-Bolla/DL_Homework_Assignment_4.git]
 
 ## 🧰 Required Libraries
 
